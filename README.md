@@ -17,7 +17,7 @@ The Duckworth-Lewis-Stern (DLS) method is a mathematical formulation used to cal
 
 ##  Usage
 
-It's live at 
+It's live at https://mid2505.github.io/DLS-Calculator/
 
 ### Basic Calculation
 
