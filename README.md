@@ -15,25 +15,9 @@ A modern web-based calculator for the Duckworth-Lewis-Stern (DLS) method, used t
 
 The Duckworth-Lewis-Stern (DLS) method is a mathematical formulation used to calculate target scores in limited-overs cricket matches interrupted by weather or other circumstances. It considers the resources available to each team (overs and wickets) to determine a fair revised target.
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-No special requirements! Just a modern web browser.
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/DLS.git
-cd DLS
-```
-
-2. Open `index.html` in your web browser.
-
-That's it! No build process or dependencies required.
-
 ## 💻 Usage
+
+It's live at 
 
 ### Basic Calculation
 
@@ -93,25 +77,6 @@ The calculator includes official DLS resource percentage tables for:
   Target = Par Score (at interruption) + Team1 Score × (Resource Loss) / Team1 Resources
   ```
 
-### Features Implemented
-
-- ✅ Overs to balls conversion (handles X.Y format correctly)
-- ✅ Input validation for cricket match rules
-- ✅ Resource percentage interpolation for partial overs
-- ✅ Mid-innings interruption handling
-- ✅ Responsive design for mobile and desktop
-- ✅ Quick scenario templates
-
-## 🎨 Design
-
-The interface features:
-- Modern, clean card-based design
-- Gradient backgrounds
-- Smooth animations and transitions
-- Responsive layout (mobile-friendly)
-- Accessible color scheme
-- Interactive result displays
-
 ## 📊 Data Source
 
 DLS resource percentages are based on the official Duckworth-Lewis-Stern tables used in international cricket. The T20 resource table is optimized for the shorter format.
@@ -126,10 +91,6 @@ DLS resource percentages are based on the official Duckworth-Lewis-Stern tables 
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
@@ -146,4 +107,4 @@ For questions or suggestions, please open an issue in the repository.
 
 ---
 
-**Note:** This calculator is for educational and entertainment purposes. For official match calculations, please refer to the ICC-approved DLS software.
+**Note:** This calculator is made as a fun project. For official match calculations, please refer to the ICC-approved DLS software.
