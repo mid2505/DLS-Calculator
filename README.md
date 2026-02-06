@@ -15,7 +15,7 @@ A modern web-based calculator for the Duckworth-Lewis-Stern (DLS) method, used t
 
 The Duckworth-Lewis-Stern (DLS) method is a mathematical formulation used to calculate target scores in limited-overs cricket matches interrupted by weather or other circumstances. It considers the resources available to each team (overs and wickets) to determine a fair revised target.
 
-##  Usage
+##  Usage 
 
 It's live at https://mid2505.github.io/DLS-Calculator/
 
