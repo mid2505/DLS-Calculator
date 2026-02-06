@@ -2,7 +2,7 @@
 
 A modern web-based calculator for the Duckworth-Lewis-Stern (DLS) method, used to calculate revised targets in rain-interrupted cricket matches. This tool supports both T20 and ODI (50-over) formats.
 
-## 🏏 Features
+##  Features
 
 - **Complete DLS Calculator** - Calculate revised targets for interrupted cricket matches
 - **Multiple Format Support** - Supports both T20 (20 overs) and ODI (50 overs) cricket
@@ -11,11 +11,11 @@ A modern web-based calculator for the Duckworth-Lewis-Stern (DLS) method, used t
 - **Pre-loaded Scenarios** - Quick access to common match situations
 - **Detailed Results** - Shows resource percentages, par scores, and target details
 
-## 📋 What is DLS?
+##  What is DLS?
 
 The Duckworth-Lewis-Stern (DLS) method is a mathematical formulation used to calculate target scores in limited-overs cricket matches interrupted by weather or other circumstances. It considers the resources available to each team (overs and wickets) to determine a fair revised target.
 
-## 💻 Usage
+##  Usage
 
 It's live at 
 
@@ -45,7 +45,7 @@ The calculator includes pre-loaded scenarios for common situations:
 - ODI rain delay scenarios
 - Target revision examples
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 DLS/
@@ -57,7 +57,7 @@ DLS/
 └── README.md           # This file
 ```
 
-## 🔧 Technical Details
+##  Technical Details
 
 ### DLS Resource Tables
 
@@ -77,24 +77,22 @@ The calculator includes official DLS resource percentage tables for:
   Target = Par Score (at interruption) + Team1 Score × (Resource Loss) / Team1 Resources
   ```
 
-## 📊 Data Source
+##  Data Source
 
 DLS resource percentages are based on the official Duckworth-Lewis-Stern tables used in international cricket. The T20 resource table is optimized for the shorter format.
 
-## 🌐 Browser Support
+##  Browser Support
 
 - Chrome (latest)
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 👨‍💻 Author
-
-Created with ⚡ for cricket enthusiasts
+Created for cricket enthusiasts (ah, just give it a try!)
 
 ## 🔗 Links
 
